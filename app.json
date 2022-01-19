@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "arcadeGame101",
+    "slug": "arcadeGame101",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "arcadeGame101"
+}
